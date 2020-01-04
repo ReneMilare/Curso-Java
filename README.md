@@ -1,6 +1,6 @@
 # Curso de Java
 <p>
-  Curso de Java ministrado pela Alura Cursos Online, este curso abordou os seguites tópicos até o momento (curo em andamento):
+  Curso de Java ministrado pela Alura Cursos Online, este curso abordou os seguites tópicos até o momento (curso em andamento):
 </p>
 <li>Classes;</li>
 <li>Herança;</li>
